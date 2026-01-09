@@ -29,7 +29,7 @@ seem to have worked fine, even with the heat of the PSU, but I don't guarantee a
 screwdriver or two.
 2. Soldering iron. This is to set the heat set inserts, there is no soldering required electrically in the case.
 
-# Printing instructions
+# Printing Instructions
 This is not a 3D printing tutorial. If you are completely new to 3D printing, I suggest getting used to your printer with some objects from the
 internet. Note that this project requires printing relatively large flat pieces which can be difficult if your bed is out of level or has adhesion
 issues, so make sure that's sorted before you begin.
@@ -49,7 +49,7 @@ __THESE FILES ARE INTENDED TO PRINT WITHOUT SUPPORTS__
 You should be able to orient all of these files to print without supports. I do use supports to print the feet, though this should not strictly be
 necessary either. All other files except the feet should not need supports.
 
-## Install the Heat Set Inserts.
+## Install the Heat Set Inserts
 I will not cover _how to do this_ in detail. [There's a reasonbly good guide here.](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/). My tips as I've worked on this are:
 1. Don't lift the insert into place on the tip of the soldering iron. Set it in the hole and bring the soldering iron to it. This prevents overheating the insert before you even touch the part.
 2. Let the inserts cool after inserting them. They are hot and will burn you. Also, the plastic is soft and will deform until it cools.
