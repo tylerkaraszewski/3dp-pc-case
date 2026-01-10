@@ -20,6 +20,10 @@ You only need about 40 of these. One bag is enough to make three cases.
 2. The case is designed around [this power switch](https://www.amazon.com/dp/B08QV4CWYW?ref=ppx_yo2ov_dt_b_fed_asin_title).
 I may make alternate front panels for a different size power switch to allow for options here, but so far those are not available.
 3. SCREWS (TODO)
+
+Countersunk:
+2x8mm
+
 4. WIRE FOR POWER SWITCH (TODO)
 5. Printer filament of your choice. The example prints shown here were done in PETG-CF, but I have made plenty of test prints in PLA and they
 seem to have worked fine, even with the heat of the PSU, but I don't guarantee anything.
@@ -68,7 +72,12 @@ There are five parts that need inserts set into them. These are `front beam`, `I
 8. Insert 2 inserts into each long side of the top and bottom beams (4 inserts per part, 8 in total for this step), as shown: <br><img width=400 src="https://github.com/user-attachments/assets/8d844b45-8ae6-446a-94ab-2effc89ad40a">
 9. The last 3 images all show `bottom beam`. The process with `top beam` is the same, and so I will not include images of each step, but for reference, here is the final part,m showing inserts on all sides. <br><img width=400 src="https://github.com/user-attachments/assets/e980ad55-88a1-46ed-970c-74218c4c463d">
 
+# Assembly Instructions
+
+1. Assemble the motherboard, CPU, cooler, RAM, and SSD as normal.
 <br><img width=400 src="https://github.com/user-attachments/assets/4a4c2ecb-40a8-449b-a57b-667283f18e35">
+
+2. Disconnect the end of the power connector from the PSU.
 <br><img width=400 src="https://github.com/user-attachments/assets/08fb9aa5-608a-43a2-94b3-b52173e2dda2">
 <br><img width=400 src="https://github.com/user-attachments/assets/46606d7a-3433-417c-ab21-f7985a3d68f4">
 <br><img width=400 src="https://github.com/user-attachments/assets/3779eeea-127c-4f71-8c61-f88c795b2a9e">
