@@ -52,10 +52,19 @@ You should be able to orient all of these files to print without supports. I do 
 necessary either. All other files except the feet should not need supports.
 
 ## Install the Heat Set Inserts
-I will not cover _how to do this_ in detail. [There's a reasonbly good guide here.](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/). My tips as I've worked on this are:
+I will not cover _how to do this_ in detail. [There's a reasonbly good guide here.](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/) My tips as I've worked on this are:
 1. Don't lift the insert into place on the tip of the soldering iron. Set it in the hole and bring the soldering iron to it. This prevents overheating the insert before you even touch the part.
 2. Let the inserts cool after inserting them. They are hot and will burn you. Also, the plastic is soft and will deform until it cools.
 
 There are five parts that need inserts set into them. These are `front beam`, `IO beam`, `top beam`, `bottom beam`, and `mobo panel`. The location of the inserts in each is as follows:
 
+1. In the IO beam, insert two inserts either side of the power connector, from the back (the completely flat side) as shown: <br><img width=400 src="https://github.com/user-attachments/assets/6f20641e-27d3-4c74-9503-17ce9437bf7b">
+2. In the front beam, insert four inserts along the inside edge of the front opening, from the front (the flat side) as shown: <br><img width=400 src="https://github.com/user-attachments/assets/6ced1c35-aea7-4567-a2e5-99bc29f77ed6">
+2. In the motherboard panel, insert four inserts into the top of the raised motherboard standoffs as shown: <br><img width=400 src="https://github.com/user-attachments/assets/a1dc1851-ec54-4a60-b60b-ef3622fd1d13">
+4. Then flip the motherboard panel over and install two more inserts into the remaining holes from the backside, as shown: <br><img width=400 src="https://github.com/user-attachments/assets/19ad9b42-9a8b-4a2a-a062-2fa1c6836056">
+5. The top and bottomn beam are more complex, with 14 inserts each, but both are done the same way.
+6. Insert 4 inserts into the flat side of each of the top and bottom beams, as shown: <br><img width=400 src="https://github.com/user-attachments/assets/0920498a-79d1-430b-869d-175274ab88e1">
+7. Insert 3 inserts into each short side of the top and bottom beams (6 inserts per part, 12 in total for this step), as shown: <br><img width=400 src="https://github.com/user-attachments/assets/ee9e08b3-f12a-41b7-b20f-83dc59608f0e">
+8. Insert 2 inserts into each long side of the top and bottom beams (4 inserts per part, 8 in total for this step), as shown: <br><img width=400 src="https://github.com/user-attachments/assets/8d844b45-8ae6-446a-94ab-2effc89ad40a">
+9. The last 3 images all show `bottom beam`. The process with `top beam` is the same, and so I will not include images of each step, but for reference, here is the final part,m showing inserts on all sides. <br><img width=400 src="https://github.com/user-attachments/assets/e980ad55-88a1-46ed-970c-74218c4c463d">
 
