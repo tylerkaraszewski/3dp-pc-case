@@ -68,3 +68,54 @@ There are five parts that need inserts set into them. These are `front beam`, `I
 8. Insert 2 inserts into each long side of the top and bottom beams (4 inserts per part, 8 in total for this step), as shown: <br><img width=400 src="https://github.com/user-attachments/assets/8d844b45-8ae6-446a-94ab-2effc89ad40a">
 9. The last 3 images all show `bottom beam`. The process with `top beam` is the same, and so I will not include images of each step, but for reference, here is the final part,m showing inserts on all sides. <br><img width=400 src="https://github.com/user-attachments/assets/e980ad55-88a1-46ed-970c-74218c4c463d">
 
+<br><img width=400 src="https://github.com/user-attachments/assets/4a4c2ecb-40a8-449b-a57b-667283f18e35">
+<br><img width=400 src="https://github.com/user-attachments/assets/08fb9aa5-608a-43a2-94b3-b52173e2dda2">
+<br><img width=400 src="https://github.com/user-attachments/assets/46606d7a-3433-417c-ab21-f7985a3d68f4">
+<br><img width=400 src="https://github.com/user-attachments/assets/3779eeea-127c-4f71-8c61-f88c795b2a9e">
+<br><img width=400 src="https://github.com/user-attachments/assets/1857618a-7a12-4c43-a8a5-e7d4dc3a10ef">
+<br><img width=400 src="https://github.com/user-attachments/assets/dba2da08-3238-4ae2-bef5-4ae87ce6f107">
+<br><img width=400 src="https://github.com/user-attachments/assets/22449d0b-96fe-47ab-bf8b-16df97226816">
+<br><img width=400 src="https://github.com/user-attachments/assets/6083821b-4e24-46c5-b233-60b04dee4fa4">
+<br><img width=400 src="https://github.com/user-attachments/assets/b3024440-de5c-4d46-bfad-166fafba48dd">
+<br><img width=400 src="https://github.com/user-attachments/assets/4e2d010a-3328-4953-b35a-9a260e7e6255">
+<br><img width=400 src="https://github.com/user-attachments/assets/ec999144-77dc-4388-9e03-03009faf458f">
+<br><img width=400 src="https://github.com/user-attachments/assets/12f15a04-88b4-4d27-802e-d8c22233b08b">
+<br><img width=400 src="https://github.com/user-attachments/assets/6cbc94b9-becb-47c6-8c8a-b5cfcd75e9d6">
+<br><img width=400 src="https://github.com/user-attachments/assets/a049e028-fbbd-4159-b5e7-a0e2e644a142">
+<br><img width=400 src="https://github.com/user-attachments/assets/fa04ccea-debc-4c4d-ab7c-2c8bff9db3ff">
+<br><img width=400 src="https://github.com/user-attachments/assets/ac328fb5-ab98-461c-8462-ebee674ecc3d">
+<br><img width=400 src="https://github.com/user-attachments/assets/906eca53-7f9a-47c5-b808-c84f1c6ee2ea">
+<br><img width=400 src="https://github.com/user-attachments/assets/389566a4-349c-4ca7-8ea3-ac7c6dbab6b8">
+<br><img width=400 src="https://github.com/user-attachments/assets/6fb12d9f-9f5c-4206-ac6c-ea19a820c515">
+<br><img width=400 src="https://github.com/user-attachments/assets/36b3c456-75d2-43a6-97b2-75582e17edf9">
+<br><img width=400 src="https://github.com/user-attachments/assets/8b745a7d-ffa1-4612-90aa-240fad66d435">
+<br><img width=400 src="https://github.com/user-attachments/assets/8f2ee408-9e6f-41ee-9bb2-904c7d47b936">
+<br><img width=400 src="https://github.com/user-attachments/assets/bafbff48-f467-4172-a56a-93b66d134334">
+<br><img width=400 src="https://github.com/user-attachments/assets/945ced50-0dea-4dd7-bf79-38890a95689e">
+<br><img width=400 src="https://github.com/user-attachments/assets/1c273aa4-d1d5-4e21-af01-30051f182feb">
+
+10 x 8MM panhead screws (mobo, pcie, feet)
+
+power plug at io plate 2x8mm countersunk
+
+6x12mm countersunk to attack io/front beams
+
+Insert IO sheild before putting on back!
+
+4x 6mm countersunk for PSU
+
+6x12mm countersunk to attach front beams
+
+4x 8mm countersunk for front faceplate (could be 10 or 12)
+
+Install feet. Note 2 feet, only line up in 2 corners each
+
+4x8mm to attach top (could be 10 or 12)
+
+Fit top panel both directions, they are different by 0.25mm. Pick wehich one looks best
+
+Attach left panel in front of CPU, try both directions
+
+4x6mm (could be 8)
+
+4x6mm attach right by GPU, try both directions
