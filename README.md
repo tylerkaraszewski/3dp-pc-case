@@ -1,3 +1,5 @@
+<img width=400 src="https://github.com/user-attachments/assets/1c273aa4-d1d5-4e21-af01-30051f182feb">
+
 This is a fully 3D-printable sub-6L case (in the version for the 9060XT variant).
 There will be a 5070FE variant as well, which will be approximately 7.5L, but this is not yet available.
 
@@ -148,4 +150,3 @@ There should be a tiny gap along the front and top, and it should be flush with 
 ## All done!
 <br><img width=400 src="https://github.com/user-attachments/assets/bafbff48-f467-4172-a56a-93b66d134334">
 <br><img width=400 src="https://github.com/user-attachments/assets/945ced50-0dea-4dd7-bf79-38890a95689e">
-<br><img width=400 src="https://github.com/user-attachments/assets/1c273aa4-d1d5-4e21-af01-30051f182feb">
