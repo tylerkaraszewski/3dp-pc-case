@@ -21,8 +21,11 @@ You only need about 40 of these. One bag is enough to make three cases.
 I may make alternate front panels for a different size power switch to allow for options here, but so far those are not available.
 3. SCREWS (TODO)
 
-Countersunk:
-2x8mm
+Flathead:
+8mm - 2
+
+Panhead:
+8mm - 4
 
 4. WIRE FOR POWER SWITCH (TODO)
 5. Printer filament of your choice. The example prints shown here were done in PETG-CF, but I have made plenty of test prints in PLA and they
@@ -79,7 +82,12 @@ There are five parts that need inserts set into them. These are `front beam`, `I
 
 2. Disconnect the end of the power connector from the PSU.
 <br><img width=400 src="https://github.com/user-attachments/assets/08fb9aa5-608a-43a2-94b3-b52173e2dda2">
+
+3. Install the power plug from the outside of the IO panel using using two 8mm flathead screws.
 <br><img width=400 src="https://github.com/user-attachments/assets/46606d7a-3433-417c-ab21-f7985a3d68f4">
+
+4. Install the PCIe riser cable and bend it under the motherboard. Install the motherboard in the motherboard panel using four 8mm panhead screws.
+IMPORTANT: Run the end of the power connector into the same space as the PCIe riser cable before securing the motherboard to the motherboard tray.
 <br><img width=400 src="https://github.com/user-attachments/assets/3779eeea-127c-4f71-8c61-f88c795b2a9e">
 <br><img width=400 src="https://github.com/user-attachments/assets/1857618a-7a12-4c43-a8a5-e7d4dc3a10ef">
 <br><img width=400 src="https://github.com/user-attachments/assets/dba2da08-3238-4ae2-bef5-4ae87ce6f107">
