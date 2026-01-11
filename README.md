@@ -19,15 +19,9 @@ Any mini-ITX motherboard, CPU and RAM should be fine.
 You only need about 40 of these. One bag is enough to make three cases.
 2. The case is designed around [this power switch](https://www.amazon.com/dp/B08QV4CWYW?ref=ppx_yo2ov_dt_b_fed_asin_title).
 I may make alternate front panels for a different size power switch to allow for options here, but so far those are not available.
-3. SCREWS (TODO)
-
-Flathead:
-8mm - 2 + 4 + 4
-12mm - 6 + 6
-6mm - 4 + 4 + 4
-
-Panhead:
-8mm - 4 + 2 + 4
+3. You need a variety of M3 screws.
+Flathead: 6mm x 12. 8mm x 10. 12mm x 12.
+Panhead: 8mm x 10.
 
 4. WIRE FOR POWER SWITCH (TODO)
 5. Printer filament of your choice. The example prints shown here were done in PETG-CF, but I have made plenty of test prints in PLA and they
