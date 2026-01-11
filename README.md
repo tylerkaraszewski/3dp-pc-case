@@ -24,7 +24,7 @@ I may make alternate front panels for a different size power switch to allow for
 Flathead:
 8mm - 2 + 4 + 4
 12mm - 6 + 6
-6mm - 4
+6mm - 4 + 4 + 4
 
 Panhead:
 8mm - 4 + 2 + 4
@@ -144,35 +144,14 @@ If a foot doesn't fit on one spot, try it in another.
 (there should be a 0.25mm gap at the front of the case, and it should be flush at the back of the case).
 <br><img width=400 src="https://github.com/user-attachments/assets/36b3c456-75d2-43a6-97b2-75582e17edf9">
 
-
+18. Using four 6mm flathead screws, attach the `leftside panel` in front of the CPU. Like the top panel, it is asymmetric by 0.25 at the top and the front.
+There should be a tiny gap along the front and top, and it should be flush with the bottom and back of the case. Rotate it 180 degrees and see which way it fits better.
 <br><img width=400 src="https://github.com/user-attachments/assets/8b745a7d-ffa1-4612-90aa-240fad66d435">
+
+19. Install the `rightside panel` in front of the GPU with the same procedure at the `leftside panel`.
 <br><img width=400 src="https://github.com/user-attachments/assets/8f2ee408-9e6f-41ee-9bb2-904c7d47b936">
+
+## All done!
 <br><img width=400 src="https://github.com/user-attachments/assets/bafbff48-f467-4172-a56a-93b66d134334">
 <br><img width=400 src="https://github.com/user-attachments/assets/945ced50-0dea-4dd7-bf79-38890a95689e">
 <br><img width=400 src="https://github.com/user-attachments/assets/1c273aa4-d1d5-4e21-af01-30051f182feb">
-
-10 x 8MM panhead screws (mobo, pcie, feet)
-
-power plug at io plate 2x8mm countersunk
-
-6x12mm countersunk to attack io/front beams
-
-Insert IO sheild before putting on back!
-
-4x 6mm countersunk for PSU
-
-6x12mm countersunk to attach front beams
-
-4x 8mm countersunk for front faceplate (could be 10 or 12)
-
-Install feet. Note 2 feet, only line up in 2 corners each
-
-4x8mm to attach top (could be 10 or 12)
-
-Fit top panel both directions, they are different by 0.25mm. Pick wehich one looks best
-
-Attach left panel in front of CPU, try both directions
-
-4x6mm (could be 8)
-
-4x6mm attach right by GPU, try both directions
