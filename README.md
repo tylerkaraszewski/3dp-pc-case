@@ -42,6 +42,8 @@ issues, so make sure that's sorted before you begin.
 ## Download the Zip File of Your Choice
 Currently there is [only one](https://github.com/tylerkaraszewski/3dp-pc-case/blob/main/9060XT_case_v94.zip).
 
+The 9060XT variant requires a printer bed size of 201x222mm or larger.
+
 __NOTE__ When printing `leftside panel` and `rightside panel` note which is which and keep track of this until assembly. The two are slightly different but close enough to be confused.
 
 Print one of each STL in the zip file except for:
