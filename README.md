@@ -23,7 +23,7 @@ You only need about 40 of these. One bag is enough to make three cases.
 I may make alternate front panels for a different size power switch to allow for options here, but so far those are not available.
 3. You need a variety of M3 screws.<br>
   Flathead: 6mm x 12. 8mm x 10. 12mm x 12. (McMaster: [6mm](https://www.mcmaster.com/91294A126/), [8mm](https://www.mcmaster.com/91294A128/), [12mm](https://www.mcmaster.com/91294A132/))<br>
-  Panhead: 8mm x 10. (Mcmaster: either [hex](https://www.mcmaster.com/91239A113/) or [phillips](https://www.mcmaster.com/92005A118/))
+  Panhead: 8mm x 10. (Mcmaster: either [hex](https://www.mcmaster.com/91239A113/) or [phillips](https://www.mcmaster.com/92005A118/))<br>
   [This Amazon kit](https://a.co/d/0OQjD8p) probably has everything you need.
 
 4. WIRE FOR POWER SWITCH (TODO)
