@@ -21,8 +21,8 @@ Any mini-ITX motherboard, CPU and RAM should be fine.
 You only need about 40 of these. One bag is enough to make three cases.
 2. The case is designed around [this power switch](https://www.amazon.com/dp/B08QV4CWYW?ref=ppx_yo2ov_dt_b_fed_asin_title).
 I may make alternate front panels for a different size power switch to allow for options here, but so far those are not available.
-3. You need a variety of M3 screws.
-  Flathead: 6mm x 12. 8mm x 10. 12mm x 12. (McMaster: [6mm](https://www.mcmaster.com/91294A126/), [8mm](https://www.mcmaster.com/91294A128/), [12mm](https://www.mcmaster.com/91294A132/)) 
+3. You need a variety of M3 screws.<br>
+  Flathead: 6mm x 12. 8mm x 10. 12mm x 12. (McMaster: [6mm](https://www.mcmaster.com/91294A126/), [8mm](https://www.mcmaster.com/91294A128/), [12mm](https://www.mcmaster.com/91294A132/))<br>
   Panhead: 8mm x 10. (Mcmaster: either [hex](https://www.mcmaster.com/91239A113/) or [phillips](https://www.mcmaster.com/92005A118/))
   [This Amazon kit](https://a.co/d/0OQjD8p) probably has everything you need.
 
